@@ -1,0 +1,7 @@
+2021-Dec-21 10:49:35
+Computer name:	DESKTOP-93GF8DS
+Number of cores used in calculation:	8
+Configuration name:	默认
+Project name:	项目(1)
+
+Warnings on last iteration: 
